@@ -1,7 +1,3 @@
-Here is a concise README you can use for your GitHub repo:
-
----
-
 Stellar Expedition: Journey Beyond Earth
 
 Project Description
